@@ -1,3 +1,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0756. ✨ feat: support email verification
 0099. 🚀 perf: reduce image load time
+0489. 🔧 refactor: organize models into subfolders
