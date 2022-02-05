@@ -229,3 +229,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0584. 🚀 perf: lazy-load components
 0922. 📚 docs: write FAQ section
+0933. 📚 docs: clarify environment setup
