@@ -234,3 +234,4 @@
 0663. 🚀 perf: reduce image load time
 0441. 📚 docs: add API usage examples
 0862. ♻️ chore: bump dependencies
+0308. 🚀 perf: reduce image load time
