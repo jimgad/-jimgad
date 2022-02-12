@@ -15,3 +15,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0257. 📚 docs: clarify environment setup
 0712. 🎨 style: apply consistent indentation
+0090. ✅ test: increase coverage on auth module
