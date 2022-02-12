@@ -236,3 +236,4 @@
 0862. ♻️ chore: bump dependencies
 0308. 🚀 perf: reduce image load time
 0630. 🚀 perf: lazy-load components
+0520. 🐛 fix: fix null pointer exception on login
