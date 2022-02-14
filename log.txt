@@ -240,3 +240,4 @@
 0388. 🎨 style: reformat files with black
 0861. ♻️ chore: clean up unused files
 0019. ✨ feat: enable dark mode toggle
+0207. 🐛 fix: prevent crash on empty input
