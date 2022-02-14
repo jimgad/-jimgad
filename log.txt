@@ -18,3 +18,4 @@
 0090. ✅ test: increase coverage on auth module
 0635. 🎨 style: apply consistent indentation
 0307. ✨ feat: support email verification
+0061. ✨ feat: create admin dashboard
