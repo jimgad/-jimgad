@@ -20,3 +20,4 @@
 0307. ✨ feat: support email verification
 0061. ✨ feat: create admin dashboard
 0088. 📚 docs: add API usage examples
+0262. 🎨 style: remove trailing whitespace
