@@ -242,3 +242,4 @@
 0019. ✨ feat: enable dark mode toggle
 0207. 🐛 fix: prevent crash on empty input
 0992. ♻️ chore: clean up unused files
+0468. 📚 docs: update README with setup steps
