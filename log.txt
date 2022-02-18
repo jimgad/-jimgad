@@ -23,3 +23,4 @@
 0262. 🎨 style: remove trailing whitespace
 0927. ♻️ chore: bump dependencies
 0662. ♻️ chore: clean up unused files
+0096. 🐛 fix: prevent crash on empty input
