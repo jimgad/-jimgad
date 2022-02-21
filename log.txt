@@ -245,3 +245,4 @@
 0468. 📚 docs: update README with setup steps
 0125. ✅ test: add integration test for /submit endpoint
 0783. 🐛 fix: handle 500 error in quiz API
+0152. ✨ feat: add user authentication
