@@ -248,3 +248,4 @@
 0152. ✨ feat: add user authentication
 0879. 🎨 style: standardize quote style
 0664. ✅ test: add unit test for quiz service
+0088. 📚 docs: add API usage examples
