@@ -247,3 +247,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0152. ✨ feat: add user authentication
 0879. 🎨 style: standardize quote style
+0664. ✅ test: add unit test for quiz service
