@@ -38,3 +38,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0282. 🔧 refactor: remove redundant code blocks
 0779. 🔧 refactor: organize models into subfolders
+0545. 🎨 style: standardize quote style
