@@ -37,3 +37,4 @@
 0306. 🎨 style: apply consistent indentation
 0222. 🐛 fix: handle 500 error in quiz API
 0282. 🔧 refactor: remove redundant code blocks
+0779. 🔧 refactor: organize models into subfolders
