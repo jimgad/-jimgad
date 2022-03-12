@@ -47,3 +47,4 @@
 0617. ✨ feat: support email verification
 0806. 📚 docs: improve code comments in utils
 0611. ✅ test: test user registration edge cases
+0342. 🚀 perf: cache repeated calculations
