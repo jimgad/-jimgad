@@ -273,3 +273,4 @@
 0117. ✅ test: increase coverage on auth module
 0189. 📚 docs: clarify environment setup
 0150. 🎨 style: remove trailing whitespace
+0781. 🚀 perf: reduce image load time
