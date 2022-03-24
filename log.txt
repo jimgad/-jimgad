@@ -53,3 +53,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0733. 🐛 fix: fix null pointer exception on login
 0968. 🎨 style: standardize quote style
+0793. 📚 docs: clarify environment setup
