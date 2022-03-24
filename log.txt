@@ -52,3 +52,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0955. 🔧 refactor: remove redundant code blocks
 0733. 🐛 fix: fix null pointer exception on login
+0968. 🎨 style: standardize quote style
