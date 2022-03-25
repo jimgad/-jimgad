@@ -277,3 +277,4 @@
 0901. ✨ feat: add user authentication
 0694. 🎨 style: rename variables for clarity
 0487. 🎨 style: reformat files with black
+0006. 🐛 fix: prevent crash on empty input
