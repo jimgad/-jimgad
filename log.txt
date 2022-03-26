@@ -278,3 +278,4 @@
 0694. 🎨 style: rename variables for clarity
 0487. 🎨 style: reformat files with black
 0006. 🐛 fix: prevent crash on empty input
+0647. 🐛 fix: prevent crash on empty input
