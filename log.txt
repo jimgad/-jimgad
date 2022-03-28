@@ -283,3 +283,4 @@
 0032. 🎨 style: apply consistent indentation
 0508. ✅ test: add unit test for quiz service
 0669. ✨ feat: enable dark mode toggle
+0512. 🚀 perf: reduce image load time
