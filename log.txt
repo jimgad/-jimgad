@@ -58,3 +58,4 @@
 0773. 📚 docs: document token refresh logic
 0010. ✨ feat: add user authentication
 0300. ✨ feat: add export to CSV option
+0703. 🔧 refactor: clean up auth middleware
