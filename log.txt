@@ -63,3 +63,4 @@
 0766. 🎨 style: reformat files with black
 0573. ✅ test: add integration test for /submit endpoint
 0350. 🚀 perf: cache repeated calculations
+0026. 🔧 refactor: clean up auth middleware
