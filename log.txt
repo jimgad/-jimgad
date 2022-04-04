@@ -289,3 +289,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0278. 🔧 refactor: clean up auth middleware
 0402. 🎨 style: reformat files with black
+0793. 📚 docs: clarify environment setup
