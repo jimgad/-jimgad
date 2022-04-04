@@ -286,3 +286,4 @@
 0512. 🚀 perf: reduce image load time
 0499. 🎨 style: reformat files with black
 0452. ✨ feat: implement quiz timer feature
+0759. 🔧 refactor: organize models into subfolders
