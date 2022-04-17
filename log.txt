@@ -71,3 +71,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0171. 🐛 fix: fix broken CSS in mobile view
 0129. 🔧 refactor: organize models into subfolders
+0483. 📚 docs: update README with setup steps
