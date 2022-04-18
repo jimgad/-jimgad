@@ -74,3 +74,4 @@
 0483. 📚 docs: update README with setup steps
 0746. ♻️ chore: add GitHub actions badge
 0463. 🚀 perf: reduce image load time
+0518. ✨ feat: support email verification
