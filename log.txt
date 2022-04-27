@@ -302,3 +302,4 @@
 0379. ✨ feat: support email verification
 0288. 🔧 refactor: refactor quiz grading logic
 0603. 🐛 fix: fix broken CSS in mobile view
+0660. 🐛 fix: correct typo in registration form
