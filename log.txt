@@ -314,3 +314,4 @@
 0385. ♻️ chore: clean up unused files
 0394. 🚀 perf: lazy-load components
 0710. 🐛 fix: fix broken CSS in mobile view
+0023. 📚 docs: clarify environment setup
