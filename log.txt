@@ -318,3 +318,4 @@
 0864. 🐛 fix: correct typo in registration form
 0845. 🚀 perf: cache repeated calculations
 0501. ✨ feat: add export to CSV option
+0569. 📚 docs: document token refresh logic
