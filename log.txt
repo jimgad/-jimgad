@@ -320,3 +320,4 @@
 0501. ✨ feat: add export to CSV option
 0569. 📚 docs: document token refresh logic
 0219. ✅ test: increase coverage on auth module
+0228. 🔧 refactor: remove redundant code blocks
