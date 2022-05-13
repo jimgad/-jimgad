@@ -317,3 +317,4 @@
 0023. 📚 docs: clarify environment setup
 0864. 🐛 fix: correct typo in registration form
 0845. 🚀 perf: cache repeated calculations
+0501. ✨ feat: add export to CSV option
