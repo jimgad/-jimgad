@@ -97,3 +97,4 @@
 0150. 🎨 style: remove trailing whitespace
 0318. 🔧 refactor: refactor quiz grading logic
 0753. 🔧 refactor: remove redundant code blocks
+0503. ♻️ chore: rename env.example
