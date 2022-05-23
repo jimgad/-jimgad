@@ -327,3 +327,4 @@
 0454. ♻️ chore: bump dependencies
 0732. ♻️ chore: add GitHub actions badge
 0449. ✅ test: add unit test for quiz service
+0894. ✅ test: add integration test for /submit endpoint
