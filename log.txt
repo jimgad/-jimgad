@@ -330,3 +330,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0331. 🐛 fix: fix broken CSS in mobile view
 0263. 📚 docs: add API usage examples
+0967. ♻️ chore: add GitHub actions badge
