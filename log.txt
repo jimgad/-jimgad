@@ -332,3 +332,4 @@
 0263. 📚 docs: add API usage examples
 0967. ♻️ chore: add GitHub actions badge
 0718. 🐛 fix: resolve issue with date parsing
+0848. 📚 docs: update README with setup steps
