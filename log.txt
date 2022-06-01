@@ -106,3 +106,4 @@
 0722. 📚 docs: add API usage examples
 0013. ✅ test: increase coverage on auth module
 0392. 🎨 style: remove trailing whitespace
+0344. ♻️ chore: add GitHub actions badge
