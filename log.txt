@@ -336,3 +336,4 @@
 0684. 🚀 perf: reduce image load time
 0777. 📚 docs: document token refresh logic
 0840. 🔧 refactor: refactor quiz grading logic
+0536. ✨ feat: add user authentication
