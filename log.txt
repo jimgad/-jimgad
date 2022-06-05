@@ -109,3 +109,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0934. ✨ feat: support email verification
 0619. ✨ feat: create admin dashboard
+0224. 🐛 fix: fix broken CSS in mobile view
