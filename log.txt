@@ -111,3 +111,4 @@
 0619. ✨ feat: create admin dashboard
 0224. 🐛 fix: fix broken CSS in mobile view
 0298. ♻️ chore: update .gitignore
+0521. 🎨 style: standardize quote style
