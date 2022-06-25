@@ -125,3 +125,4 @@
 0702. ✨ feat: add user authentication
 0811. 🎨 style: reformat files with black
 0654. ✨ feat: create admin dashboard
+0272. 🔧 refactor: remove redundant code blocks
