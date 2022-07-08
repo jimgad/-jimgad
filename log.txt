@@ -355,3 +355,4 @@
 0028. 🎨 style: standardize quote style
 0102. ✨ feat: support email verification
 0077. ♻️ chore: rename env.example
+0377. ✨ feat: add user authentication
