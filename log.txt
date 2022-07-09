@@ -134,3 +134,4 @@
 0605. ✨ feat: support email verification
 0627. 📚 docs: document token refresh logic
 0530. 🔧 refactor: refactor quiz grading logic
+0126. 🎨 style: rename variables for clarity
