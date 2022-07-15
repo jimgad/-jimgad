@@ -138,3 +138,4 @@
 0384. 📚 docs: clarify environment setup
 0297. 🎨 style: remove trailing whitespace
 0994. 🚀 perf: reduce image load time
+0361. ✨ feat: support email verification
