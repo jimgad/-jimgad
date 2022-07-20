@@ -141,3 +141,4 @@
 0361. ✨ feat: support email verification
 0956. 📚 docs: clarify environment setup
 0062. ♻️ chore: update .gitignore
+0220. 🐛 fix: fix null pointer exception on login
