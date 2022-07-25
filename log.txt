@@ -367,3 +367,4 @@
 0742. 📚 docs: clarify environment setup
 0529. 📚 docs: write FAQ section
 0347. ♻️ chore: update .gitignore
+0698. 🐛 fix: handle 500 error in quiz API
