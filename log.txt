@@ -143,3 +143,4 @@
 0062. ♻️ chore: update .gitignore
 0220. 🐛 fix: fix null pointer exception on login
 0502. 📚 docs: update README with setup steps
+0548. 📚 docs: write FAQ section
