@@ -146,3 +146,4 @@
 0548. 📚 docs: write FAQ section
 0011. ✅ test: add unit test for quiz service
 0835. 🐛 fix: prevent crash on empty input
+0630. 🚀 perf: lazy-load components
