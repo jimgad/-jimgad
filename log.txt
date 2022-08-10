@@ -152,3 +152,4 @@
 0358. 🚀 perf: reduce image load time
 0620. ✨ feat: implement quiz timer feature
 0923. ✨ feat: support email verification
+0893. 🐛 fix: handle 500 error in quiz API
