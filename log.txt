@@ -377,3 +377,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0667. ✨ feat: add export to CSV option
 0809. ♻️ chore: rename env.example
+0016. 🎨 style: apply consistent indentation
