@@ -154,3 +154,4 @@
 0923. ✨ feat: support email verification
 0893. 🐛 fix: handle 500 error in quiz API
 0958. 🐛 fix: prevent crash on empty input
+0452. ✨ feat: implement quiz timer feature
