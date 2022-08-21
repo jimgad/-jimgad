@@ -156,3 +156,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0452. ✨ feat: implement quiz timer feature
 0269. ✅ test: test user registration edge cases
+0229. 🚀 perf: optimize database query for quiz results
