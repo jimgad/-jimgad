@@ -161,3 +161,4 @@
 0165. 🎨 style: remove trailing whitespace
 0261. 🔧 refactor: refactor quiz grading logic
 0239. 🎨 style: standardize quote style
+0792. 🎨 style: standardize quote style
