@@ -393,3 +393,4 @@
 0390. 🎨 style: standardize quote style
 0217. 🚀 perf: reduce image load time
 0902. ✨ feat: enable dark mode toggle
+0509. ♻️ chore: bump dependencies
