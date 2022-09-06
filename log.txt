@@ -395,3 +395,4 @@
 0902. ✨ feat: enable dark mode toggle
 0509. ♻️ chore: bump dependencies
 0462. ♻️ chore: update .gitignore
+0789. ✨ feat: create admin dashboard
