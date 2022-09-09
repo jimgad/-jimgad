@@ -168,3 +168,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0078. ♻️ chore: update .gitignore
 0087. ✨ feat: add export to CSV option
+0063. 🐛 fix: handle 500 error in quiz API
