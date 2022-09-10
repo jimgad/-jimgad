@@ -397,3 +397,4 @@
 0462. ♻️ chore: update .gitignore
 0789. ✨ feat: create admin dashboard
 0828. ♻️ chore: add GitHub actions badge
+0397. 🐛 fix: handle 500 error in quiz API
