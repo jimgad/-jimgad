@@ -399,3 +399,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0397. 🐛 fix: handle 500 error in quiz API
 0831. 📚 docs: clarify environment setup
+0229. 🚀 perf: optimize database query for quiz results
