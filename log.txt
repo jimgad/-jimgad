@@ -178,3 +178,4 @@
 0659. 📚 docs: add API usage examples
 0840. 🔧 refactor: refactor quiz grading logic
 0873. 🚀 perf: cache repeated calculations
+0918. ✨ feat: enable dark mode toggle
