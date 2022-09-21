@@ -406,3 +406,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0008. 🚀 perf: reduce image load time
 0604. 📚 docs: add API usage examples
+0055. 📚 docs: update README with setup steps
