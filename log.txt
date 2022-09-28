@@ -414,3 +414,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0939. 📚 docs: update README with setup steps
 0572. ✨ feat: add user authentication
+0805. ♻️ chore: add GitHub actions badge
