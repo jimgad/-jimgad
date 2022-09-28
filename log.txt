@@ -415,3 +415,4 @@
 0939. 📚 docs: update README with setup steps
 0572. ✨ feat: add user authentication
 0805. ♻️ chore: add GitHub actions badge
+0251. ♻️ chore: update .gitignore
