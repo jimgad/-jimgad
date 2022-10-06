@@ -420,3 +420,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0601. ✨ feat: implement quiz timer feature
 0807. 🔧 refactor: remove redundant code blocks
+0054. ♻️ chore: update .gitignore
