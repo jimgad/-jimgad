@@ -422,3 +422,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0054. ♻️ chore: update .gitignore
 0712. 🎨 style: apply consistent indentation
+0383. 🐛 fix: fix broken CSS in mobile view
