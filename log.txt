@@ -424,3 +424,4 @@
 0712. 🎨 style: apply consistent indentation
 0383. 🐛 fix: fix broken CSS in mobile view
 0155. ✨ feat: create admin dashboard
+0990. ♻️ chore: rename env.example
