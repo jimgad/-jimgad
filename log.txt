@@ -428,3 +428,4 @@
 0903. ✅ test: mock database connection in test suite
 0964. ♻️ chore: clean up unused files
 0129. 🔧 refactor: organize models into subfolders
+0563. 📚 docs: clarify environment setup
