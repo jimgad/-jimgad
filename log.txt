@@ -439,3 +439,4 @@
 0393. 🚀 perf: lazy-load components
 0018. 🔧 refactor: organize models into subfolders
 0423. ✅ test: mock database connection in test suite
+0844. 📚 docs: update README with setup steps
