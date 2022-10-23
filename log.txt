@@ -444,3 +444,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0122. ✨ feat: support email verification
 0376. 🎨 style: apply consistent indentation
+0727. ♻️ chore: add GitHub actions badge
