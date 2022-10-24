@@ -204,3 +204,4 @@
 0243. 🔧 refactor: clean up auth middleware
 0978. 🐛 fix: prevent crash on empty input
 0466. 🚀 perf: optimize database query for quiz results
+0696. 🔧 refactor: clean up auth middleware
