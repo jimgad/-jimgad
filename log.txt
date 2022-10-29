@@ -209,3 +209,4 @@
 0685. ✅ test: test user registration edge cases
 0908. ♻️ chore: bump dependencies
 0414. 🔧 refactor: remove redundant code blocks
+0725. 🚀 perf: lazy-load components
