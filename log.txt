@@ -451,3 +451,4 @@
 0281. ✨ feat: support email verification
 0182. 🔧 refactor: remove redundant code blocks
 0040. 🔧 refactor: clean up auth middleware
+0339. 📚 docs: update README with setup steps
