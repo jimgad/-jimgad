@@ -217,3 +217,4 @@
 0509. ♻️ chore: bump dependencies
 0430. 🐛 fix: fix null pointer exception on login
 0204. 🎨 style: standardize quote style
+0285. 🐛 fix: resolve issue with date parsing
