@@ -220,3 +220,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0114. ♻️ chore: update .gitignore
 0644. 🎨 style: apply consistent indentation
+0008. 🚀 perf: reduce image load time
