@@ -221,3 +221,4 @@
 0114. ♻️ chore: update .gitignore
 0644. 🎨 style: apply consistent indentation
 0008. 🚀 perf: reduce image load time
+0244. ✨ feat: add export to CSV option
