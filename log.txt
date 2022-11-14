@@ -222,3 +222,4 @@
 0644. 🎨 style: apply consistent indentation
 0008. 🚀 perf: reduce image load time
 0244. ✨ feat: add export to CSV option
+0434. 📚 docs: document token refresh logic
