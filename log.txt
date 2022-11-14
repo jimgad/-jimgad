@@ -461,3 +461,4 @@
 0027. 📚 docs: clarify environment setup
 0719. 🎨 style: apply consistent indentation
 0749. ✨ feat: support email verification
+0699. 🎨 style: standardize quote style
