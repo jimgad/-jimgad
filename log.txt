@@ -471,3 +471,4 @@
 0580. ♻️ chore: bump dependencies
 0675. 🔧 refactor: organize models into subfolders
 0289. 🐛 fix: resolve issue with date parsing
+0362. 📚 docs: add API usage examples
