@@ -493,3 +493,4 @@
 0695. ✨ feat: create admin dashboard
 0356. 📚 docs: write FAQ section
 0458. ✨ feat: create admin dashboard
+0048. 📚 docs: update README with setup steps
