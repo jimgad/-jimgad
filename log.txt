@@ -495,3 +495,4 @@
 0458. ✨ feat: create admin dashboard
 0048. 📚 docs: update README with setup steps
 0910. 🎨 style: remove trailing whitespace
+0686. 🎨 style: standardize quote style
