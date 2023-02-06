@@ -519,3 +519,4 @@
 0923. ✨ feat: support email verification
 0029. 🚀 perf: lazy-load components
 0010. ✨ feat: add user authentication
+0246. ✅ test: add integration test for /submit endpoint
