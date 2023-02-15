@@ -524,3 +524,4 @@
 0650. ✅ test: add unit test for quiz service
 0950. 🎨 style: reformat files with black
 0915. 🚀 perf: cache repeated calculations
+0998. 🐛 fix: fix null pointer exception on login
