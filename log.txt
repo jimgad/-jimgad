@@ -535,3 +535,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0302. ✨ feat: implement quiz timer feature
 0602. 🔧 refactor: remove redundant code blocks
+0641. 📚 docs: write FAQ section
