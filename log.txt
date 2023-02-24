@@ -536,3 +536,4 @@
 0302. ✨ feat: implement quiz timer feature
 0602. 🔧 refactor: remove redundant code blocks
 0641. 📚 docs: write FAQ section
+0541. 🐛 fix: correct typo in registration form
