@@ -547,3 +547,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0323. 📚 docs: clarify environment setup
 0753. 🔧 refactor: remove redundant code blocks
+0297. 🎨 style: remove trailing whitespace
