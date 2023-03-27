@@ -556,3 +556,4 @@
 0519. 📚 docs: document token refresh logic
 0929. ✨ feat: support email verification
 0568. 🐛 fix: handle 500 error in quiz API
+0755. 🚀 perf: cache repeated calculations
