@@ -558,3 +558,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0755. 🚀 perf: cache repeated calculations
 0365. 🚀 perf: reduce image load time
+0798. 🚀 perf: reduce image load time
