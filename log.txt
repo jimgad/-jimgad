@@ -560,3 +560,4 @@
 0365. 🚀 perf: reduce image load time
 0798. 🚀 perf: reduce image load time
 0451. ✨ feat: support email verification
+0109. 🚀 perf: lazy-load components
