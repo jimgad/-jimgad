@@ -574,3 +574,4 @@
 0788. 📚 docs: add API usage examples
 0138. 🎨 style: rename variables for clarity
 0697. ♻️ chore: bump dependencies
+0928. 🎨 style: apply consistent indentation
