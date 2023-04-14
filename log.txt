@@ -576,3 +576,4 @@
 0697. ♻️ chore: bump dependencies
 0928. 🎨 style: apply consistent indentation
 0770. ♻️ chore: rename env.example
+0615. 🐛 fix: correct typo in registration form
