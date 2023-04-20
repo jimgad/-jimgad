@@ -582,3 +582,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0060. ♻️ chore: clean up unused files
 0801. ✨ feat: enable dark mode toggle
+0259. 🚀 perf: lazy-load components
