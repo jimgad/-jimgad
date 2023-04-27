@@ -587,3 +587,4 @@
 0984. ♻️ chore: clean up unused files
 0225. 🚀 perf: reduce image load time
 0167. 🚀 perf: reduce image load time
+0471. ✨ feat: support email verification
