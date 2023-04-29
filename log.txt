@@ -591,3 +591,4 @@
 0543. ✨ feat: support email verification
 0802. 🔧 refactor: remove redundant code blocks
 0013. ✅ test: increase coverage on auth module
+0578. ✅ test: add integration test for /submit endpoint
