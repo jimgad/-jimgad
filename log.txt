@@ -595,3 +595,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0083. 🎨 style: reformat files with black
 0165. 🎨 style: remove trailing whitespace
+0391. 🐛 fix: fix null pointer exception on login
