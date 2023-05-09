@@ -599,3 +599,4 @@
 0803. ✅ test: mock database connection in test suite
 0715. ✨ feat: create admin dashboard
 0202. 🔧 refactor: refactor quiz grading logic
+0074. ♻️ chore: add GitHub actions badge
