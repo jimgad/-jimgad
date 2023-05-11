@@ -600,3 +600,4 @@
 0715. ✨ feat: create admin dashboard
 0202. 🔧 refactor: refactor quiz grading logic
 0074. ♻️ chore: add GitHub actions badge
+0765. ♻️ chore: clean up unused files
