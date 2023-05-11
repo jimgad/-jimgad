@@ -601,3 +601,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0074. ♻️ chore: add GitHub actions badge
 0765. ♻️ chore: clean up unused files
+0002. 🚀 perf: cache repeated calculations
