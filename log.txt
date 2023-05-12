@@ -602,3 +602,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0765. ♻️ chore: clean up unused files
 0002. 🚀 perf: cache repeated calculations
+0612. ✅ test: test user registration edge cases
