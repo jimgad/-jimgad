@@ -625,3 +625,4 @@
 0104. 🎨 style: apply consistent indentation
 0624. ✅ test: add unit test for quiz service
 0706. ✨ feat: support email verification
+0442. 🎨 style: standardize quote style
