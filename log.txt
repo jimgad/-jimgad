@@ -633,3 +633,4 @@
 0654. ✨ feat: create admin dashboard
 0968. 🎨 style: standardize quote style
 0140. 🐛 fix: handle 500 error in quiz API
+0960. ✅ test: increase coverage on auth module
