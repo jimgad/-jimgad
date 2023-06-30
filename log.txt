@@ -643,3 +643,4 @@
 0151. ✅ test: add unit test for quiz service
 0206. 🐛 fix: handle 500 error in quiz API
 0284. ✨ feat: implement quiz timer feature
+0785. ✨ feat: enable dark mode toggle
