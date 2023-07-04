@@ -650,3 +650,4 @@
 0953. 🎨 style: remove trailing whitespace
 0414. 🔧 refactor: remove redundant code blocks
 0734. ✨ feat: add export to CSV option
+0980. 🎨 style: reformat files with black
