@@ -653,3 +653,4 @@
 0980. 🎨 style: reformat files with black
 0586. 🎨 style: remove trailing whitespace
 0740. 🐛 fix: resolve issue with date parsing
+0766. 🎨 style: reformat files with black
