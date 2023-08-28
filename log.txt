@@ -688,3 +688,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0948. 🐛 fix: fix broken CSS in mobile view
 0587. 🔧 refactor: remove redundant code blocks
+0340. 🚀 perf: optimize database query for quiz results
