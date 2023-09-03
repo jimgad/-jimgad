@@ -693,3 +693,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0270. ♻️ chore: rename env.example
 0038. 🎨 style: rename variables for clarity
+0916. ♻️ chore: bump dependencies
