@@ -703,3 +703,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0354. 📚 docs: add API usage examples
 0720. ✨ feat: add export to CSV option
+0486. ✨ feat: add export to CSV option
