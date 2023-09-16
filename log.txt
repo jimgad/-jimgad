@@ -707,3 +707,4 @@
 0095. ✅ test: mock database connection in test suite
 0399. ✅ test: mock database connection in test suite
 0926. 🔧 refactor: organize models into subfolders
+0042. 📚 docs: document token refresh logic
