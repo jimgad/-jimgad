@@ -721,3 +721,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0313. 🎨 style: apply consistent indentation
 0030. 🐛 fix: fix null pointer exception on login
+0453. 🎨 style: standardize quote style
