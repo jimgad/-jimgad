@@ -742,3 +742,4 @@
 0045. 🎨 style: apply consistent indentation
 0576. ♻️ chore: update .gitignore
 0564. 📚 docs: clarify environment setup
+0784. ♻️ chore: clean up unused files
