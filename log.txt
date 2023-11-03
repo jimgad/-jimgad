@@ -741,3 +741,4 @@
 0611. ✅ test: test user registration edge cases
 0045. 🎨 style: apply consistent indentation
 0576. ♻️ chore: update .gitignore
+0564. 📚 docs: clarify environment setup
