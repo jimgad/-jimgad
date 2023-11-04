@@ -744,3 +744,4 @@
 0564. 📚 docs: clarify environment setup
 0784. ♻️ chore: clean up unused files
 0321. 🔧 refactor: organize models into subfolders
+0233. 🚀 perf: lazy-load components
