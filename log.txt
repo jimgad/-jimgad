@@ -750,3 +750,4 @@
 0145. 📚 docs: improve code comments in utils
 0350. 🚀 perf: cache repeated calculations
 0832. 🔧 refactor: remove redundant code blocks
+0363. 📚 docs: clarify environment setup
