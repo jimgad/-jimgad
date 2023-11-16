@@ -752,3 +752,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0363. 📚 docs: clarify environment setup
 0885. ♻️ chore: update .gitignore
+0722. 📚 docs: add API usage examples
