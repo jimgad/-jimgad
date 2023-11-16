@@ -751,3 +751,4 @@
 0350. 🚀 perf: cache repeated calculations
 0832. 🔧 refactor: remove redundant code blocks
 0363. 📚 docs: clarify environment setup
+0885. ♻️ chore: update .gitignore
