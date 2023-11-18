@@ -755,3 +755,4 @@
 0722. 📚 docs: add API usage examples
 0655. 🚀 perf: cache repeated calculations
 0015. ✨ feat: implement quiz timer feature
+0713. 🐛 fix: handle 500 error in quiz API
