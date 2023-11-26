@@ -762,3 +762,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0979. 🎨 style: standardize quote style
 0556. ✨ feat: support email verification
+0276. ✅ test: add integration test for /submit endpoint
