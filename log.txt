@@ -766,3 +766,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0336. ✨ feat: add export to CSV option
 0945. ♻️ chore: add GitHub actions badge
+0033. 🎨 style: apply consistent indentation
