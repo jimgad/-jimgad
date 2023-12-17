@@ -778,3 +778,4 @@
 0930. 🎨 style: apply consistent indentation
 0994. 🚀 perf: reduce image load time
 0021. ✨ feat: support email verification
+0702. ✨ feat: add user authentication
