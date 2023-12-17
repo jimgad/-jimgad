@@ -777,3 +777,4 @@
 0491. 🚀 perf: lazy-load components
 0930. 🎨 style: apply consistent indentation
 0994. 🚀 perf: reduce image load time
+0021. ✨ feat: support email verification
