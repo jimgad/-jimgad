@@ -779,3 +779,4 @@
 0994. 🚀 perf: reduce image load time
 0021. ✨ feat: support email verification
 0702. ✨ feat: add user authentication
+0243. 🔧 refactor: clean up auth middleware
