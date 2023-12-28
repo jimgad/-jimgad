@@ -789,3 +789,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0985. 📚 docs: document token refresh logic
 0540. ♻️ chore: add GitHub actions badge
+0469. 🚀 perf: lazy-load components
