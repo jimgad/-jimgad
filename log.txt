@@ -795,3 +795,4 @@
 0184. 📚 docs: improve code comments in utils
 0374. 🎨 style: standardize quote style
 0511. 🐛 fix: fix broken CSS in mobile view
+0317. ✅ test: test user registration edge cases
