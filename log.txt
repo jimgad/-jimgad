@@ -797,3 +797,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0317. ✅ test: test user registration edge cases
 0097. 🐛 fix: handle 500 error in quiz API
+0279. ✨ feat: support email verification
