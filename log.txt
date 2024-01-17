@@ -798,3 +798,4 @@
 0317. ✅ test: test user registration edge cases
 0097. 🐛 fix: handle 500 error in quiz API
 0279. ✨ feat: support email verification
+0291. 📚 docs: write FAQ section
