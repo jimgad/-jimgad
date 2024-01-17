@@ -799,3 +799,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0279. ✨ feat: support email verification
 0291. 📚 docs: write FAQ section
+0797. 📚 docs: add API usage examples
