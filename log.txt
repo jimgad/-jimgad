@@ -800,3 +800,4 @@
 0279. ✨ feat: support email verification
 0291. 📚 docs: write FAQ section
 0797. 📚 docs: add API usage examples
+0997. ✅ test: increase coverage on auth module
