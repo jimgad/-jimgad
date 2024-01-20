@@ -801,3 +801,4 @@
 0291. 📚 docs: write FAQ section
 0797. 📚 docs: add API usage examples
 0997. ✅ test: increase coverage on auth module
+0101. 📚 docs: clarify environment setup
