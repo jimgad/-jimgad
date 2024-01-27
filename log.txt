@@ -807,3 +807,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0384. 📚 docs: clarify environment setup
 0956. 📚 docs: clarify environment setup
+0197. 📚 docs: update README with setup steps
