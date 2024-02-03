@@ -814,3 +814,4 @@
 0232. 🎨 style: apply consistent indentation
 0548. 📚 docs: write FAQ section
 0517. ✅ test: mock database connection in test suite
+0747. 🔧 refactor: clean up auth middleware
