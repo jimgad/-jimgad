@@ -816,3 +816,4 @@
 0517. ✅ test: mock database connection in test suite
 0747. 🔧 refactor: clean up auth middleware
 0146. 🎨 style: apply consistent indentation
+0651. ✨ feat: enable dark mode toggle
