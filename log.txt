@@ -821,3 +821,4 @@
 0873. 🚀 perf: cache repeated calculations
 0419. 🎨 style: remove trailing whitespace
 0265. 🎨 style: reformat files with black
+0875. ✅ test: increase coverage on auth module
