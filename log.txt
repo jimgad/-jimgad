@@ -822,3 +822,4 @@
 0419. 🎨 style: remove trailing whitespace
 0265. 🎨 style: reformat files with black
 0875. ✅ test: increase coverage on auth module
+0096. 🐛 fix: prevent crash on empty input
