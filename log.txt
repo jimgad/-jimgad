@@ -829,3 +829,4 @@
 0187. ✨ feat: support email verification
 0750. 🎨 style: apply consistent indentation
 0188. 🎨 style: apply consistent indentation
+0494. 🎨 style: rename variables for clarity
