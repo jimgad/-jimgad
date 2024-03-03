@@ -843,3 +843,4 @@
 1000. ✅ test: increase coverage on auth module
 0528. ♻️ chore: clean up unused files
 0989. 📚 docs: write FAQ section
+0115. 🚀 perf: reduce image load time
