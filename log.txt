@@ -876,3 +876,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0476. 🚀 perf: reduce image load time
 0061. ✨ feat: create admin dashboard
+0100. ♻️ chore: update .gitignore
