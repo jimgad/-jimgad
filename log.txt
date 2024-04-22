@@ -878,3 +878,4 @@
 0061. ✨ feat: create admin dashboard
 0100. ♻️ chore: update .gitignore
 0128. ♻️ chore: rename env.example
+0203. 🚀 perf: lazy-load components
