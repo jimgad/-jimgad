@@ -896,3 +896,4 @@
 0177. 📚 docs: add API usage examples
 0857. 🎨 style: rename variables for clarity
 0046. 🎨 style: rename variables for clarity
+0170. ✅ test: increase coverage on auth module
