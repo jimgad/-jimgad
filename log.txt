@@ -904,3 +904,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0900. 🐛 fix: handle 500 error in quiz API
 0346. ✅ test: mock database connection in test suite
+0158. 📚 docs: clarify environment setup
