@@ -907,3 +907,4 @@
 0158. 📚 docs: clarify environment setup
 0434. 📚 docs: document token refresh logic
 0965. 🎨 style: reformat files with black
+0889. 🚀 perf: lazy-load components
