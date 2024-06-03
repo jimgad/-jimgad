@@ -910,3 +910,4 @@
 0889. 🚀 perf: lazy-load components
 0685. ✅ test: test user registration edge cases
 0174. 📚 docs: clarify environment setup
+0473. 📚 docs: write FAQ section
