@@ -911,3 +911,4 @@
 0685. ✅ test: test user registration edge cases
 0174. 📚 docs: clarify environment setup
 0473. 📚 docs: write FAQ section
+0286. ✅ test: mock database connection in test suite
