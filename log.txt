@@ -915,3 +915,4 @@
 0502. 📚 docs: update README with setup steps
 0514. 🐛 fix: fix broken CSS in mobile view
 0865. ♻️ chore: add GitHub actions badge
+0515. 🚀 perf: optimize database query for quiz results
