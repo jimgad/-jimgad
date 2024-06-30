@@ -929,3 +929,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0295. 🎨 style: remove trailing whitespace
 0478. 🐛 fix: resolve issue with date parsing
+0301. 🎨 style: apply consistent indentation
