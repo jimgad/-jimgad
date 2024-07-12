@@ -939,3 +939,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0307. ✨ feat: support email verification
 0492. 🎨 style: remove trailing whitespace
+0849. 🐛 fix: correct typo in registration form
