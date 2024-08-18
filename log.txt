@@ -958,3 +958,4 @@
 0622. 🎨 style: apply consistent indentation
 0429. ✨ feat: add user authentication
 0574. ✨ feat: enable dark mode toggle
+0171. 🐛 fix: fix broken CSS in mobile view
