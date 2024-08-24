@@ -965,3 +965,4 @@
 0513. ♻️ chore: bump dependencies
 0094. 📚 docs: document token refresh logic
 0773. 📚 docs: document token refresh logic
+0790. 📚 docs: write FAQ section
