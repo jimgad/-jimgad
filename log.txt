@@ -976,3 +976,4 @@
 0349. ✅ test: increase coverage on auth module
 0076. 🎨 style: reformat files with black
 0987. ✨ feat: create admin dashboard
+0855. 🎨 style: reformat files with black
