@@ -982,3 +982,4 @@
 0087. ✨ feat: add export to CSV option
 0745. ✅ test: add unit test for quiz service
 0771. 🚀 perf: cache repeated calculations
+0633. ✨ feat: add user authentication
