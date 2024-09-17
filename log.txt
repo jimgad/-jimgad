@@ -983,3 +983,4 @@
 0745. ✅ test: add unit test for quiz service
 0771. 🚀 perf: cache repeated calculations
 0633. ✨ feat: add user authentication
+0459. 🔧 refactor: organize models into subfolders
