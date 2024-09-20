@@ -984,3 +984,4 @@
 0771. 🚀 perf: cache repeated calculations
 0633. ✨ feat: add user authentication
 0459. 🔧 refactor: organize models into subfolders
+0162. ♻️ chore: add GitHub actions badge
