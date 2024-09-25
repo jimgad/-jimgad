@@ -991,3 +991,4 @@
 0934. ✨ feat: support email verification
 0366. 🔧 refactor: remove redundant code blocks
 0334. 🚀 perf: cache repeated calculations
+0971. 🎨 style: standardize quote style
