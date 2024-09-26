@@ -995,3 +995,4 @@
 0017. ✅ test: mock database connection in test suite
 0610. 🚀 perf: lazy-load components
 0605. ✨ feat: support email verification
+0614. 🚀 perf: reduce image load time
