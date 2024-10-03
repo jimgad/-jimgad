@@ -997,3 +997,4 @@
 0605. ✨ feat: support email verification
 0614. 🚀 perf: reduce image load time
 0799. ♻️ chore: clean up unused files
+0056. ♻️ chore: rename env.example
