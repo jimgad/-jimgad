@@ -1000,3 +1000,4 @@
 0056. ♻️ chore: rename env.example
 0546. 🐛 fix: fix null pointer exception on login
 0320. 📚 docs: update README with setup steps
+0566. 📚 docs: write FAQ section
