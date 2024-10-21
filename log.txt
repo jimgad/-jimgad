@@ -1013,3 +1013,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0600. 🐛 fix: prevent crash on empty input
 0521. 🎨 style: standardize quote style
+0220. 🐛 fix: fix null pointer exception on login
