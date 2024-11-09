@@ -1024,3 +1024,4 @@
 0583. ✅ test: increase coverage on auth module
 0200. 🐛 fix: handle 500 error in quiz API
 0413. ✅ test: add integration test for /submit endpoint
+0026. 🔧 refactor: clean up auth middleware
