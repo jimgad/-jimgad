@@ -1042,3 +1042,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0344. ♻️ chore: add GitHub actions badge
 0268. 🐛 fix: prevent crash on empty input
+0760. 🐛 fix: resolve issue with date parsing
