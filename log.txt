@@ -1052,3 +1052,4 @@
 0681. ✨ feat: create admin dashboard
 0690. 🚀 perf: lazy-load components
 0175. 📚 docs: add API usage examples
+0373. 📚 docs: document token refresh logic
