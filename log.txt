@@ -1061,3 +1061,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0069. 🎨 style: rename variables for clarity
 0567. 📚 docs: add API usage examples
+0936. 🔧 refactor: organize models into subfolders
