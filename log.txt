@@ -1063,3 +1063,4 @@
 0567. 📚 docs: add API usage examples
 0936. 🔧 refactor: organize models into subfolders
 0488. ♻️ chore: add GitHub actions badge
+0852. ✨ feat: enable dark mode toggle
