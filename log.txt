@@ -1072,3 +1072,4 @@
 0113. ✨ feat: add user authentication
 0440. 📚 docs: update README with setup steps
 0178. ✨ feat: support email verification
+0237. 🎨 style: standardize quote style
