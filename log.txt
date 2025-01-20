@@ -1073,3 +1073,4 @@
 0440. 📚 docs: update README with setup steps
 0178. ✨ feat: support email verification
 0237. 🎨 style: standardize quote style
+0367. 🐛 fix: fix null pointer exception on login
