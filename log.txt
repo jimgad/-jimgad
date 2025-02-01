@@ -1083,3 +1083,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0280. ✅ test: add integration test for /submit endpoint
 0847. ♻️ chore: clean up unused files
+0866. 📚 docs: add API usage examples
