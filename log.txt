@@ -1087,3 +1087,4 @@
 0833. ✨ feat: add user authentication
 0976. ✨ feat: implement quiz timer feature
 0746. ♻️ chore: add GitHub actions badge
+0050. ✨ feat: enable dark mode toggle
