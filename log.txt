@@ -1088,3 +1088,4 @@
 0976. ✨ feat: implement quiz timer feature
 0746. ♻️ chore: add GitHub actions badge
 0050. ✨ feat: enable dark mode toggle
+0131. 📚 docs: write FAQ section
