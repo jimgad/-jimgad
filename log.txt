@@ -1097,3 +1097,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0904. ✨ feat: implement quiz timer feature
 0290. ✅ test: test user registration edge cases
+0725. 🚀 perf: lazy-load components
