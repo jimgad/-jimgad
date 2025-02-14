@@ -1100,3 +1100,4 @@
 0725. 🚀 perf: lazy-load components
 0338. ♻️ chore: add GitHub actions badge
 0401. 🚀 perf: reduce image load time
+0352. ✨ feat: add export to CSV option
