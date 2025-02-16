@@ -1102,3 +1102,4 @@
 0401. 🚀 perf: reduce image load time
 0352. ✨ feat: add export to CSV option
 0319. 🐛 fix: handle 500 error in quiz API
+0398. 🚀 perf: cache repeated calculations
