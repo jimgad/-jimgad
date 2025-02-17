@@ -1106,3 +1106,4 @@
 0843. 📚 docs: document token refresh logic
 0420. 🚀 perf: reduce image load time
 0537. 🔧 refactor: remove redundant code blocks
+0066. 🔧 refactor: clean up auth middleware
