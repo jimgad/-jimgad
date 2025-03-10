@@ -1122,3 +1122,4 @@
 0159. 🚀 perf: lazy-load components
 0780. 📚 docs: add API usage examples
 0400. 🐛 fix: fix null pointer exception on login
+0185. 📚 docs: write FAQ section
