@@ -1123,3 +1123,4 @@
 0780. 📚 docs: add API usage examples
 0400. 🐛 fix: fix null pointer exception on login
 0185. 📚 docs: write FAQ section
+0842. 🎨 style: remove trailing whitespace
