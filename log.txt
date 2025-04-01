@@ -1139,3 +1139,4 @@
 0638. 📚 docs: improve code comments in utils
 0305. ✨ feat: enable dark mode toggle
 0850. ♻️ chore: rename env.example
+0450. 🐛 fix: fix broken CSS in mobile view
