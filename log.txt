@@ -1140,3 +1140,4 @@
 0305. ✨ feat: enable dark mode toggle
 0850. ♻️ chore: rename env.example
 0450. 🐛 fix: fix broken CSS in mobile view
+0668. 🚀 perf: optimize database query for quiz results
