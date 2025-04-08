@@ -1143,3 +1143,4 @@
 0668. 🚀 perf: optimize database query for quiz results
 0880. 🐛 fix: fix broken CSS in mobile view
 0407. 🚀 perf: cache repeated calculations
+0738. 🐛 fix: prevent crash on empty input
