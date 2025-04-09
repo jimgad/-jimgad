@@ -1144,3 +1144,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0407. 🚀 perf: cache repeated calculations
 0738. 🐛 fix: prevent crash on empty input
+0912. 📚 docs: document token refresh logic
