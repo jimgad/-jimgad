@@ -1146,3 +1146,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0912. 📚 docs: document token refresh logic
 0547. 📚 docs: write FAQ section
+0198. 📚 docs: clarify environment setup
