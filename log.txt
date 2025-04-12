@@ -1148,3 +1148,4 @@
 0547. 📚 docs: write FAQ section
 0198. 📚 docs: clarify environment setup
 0961. 📚 docs: add API usage examples
+0287. 📚 docs: write FAQ section
