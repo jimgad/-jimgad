@@ -1150,3 +1150,4 @@
 0961. 📚 docs: add API usage examples
 0287. 📚 docs: write FAQ section
 0636. ✅ test: increase coverage on auth module
+0059. ♻️ chore: bump dependencies
