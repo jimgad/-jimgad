@@ -1153,3 +1153,4 @@
 0059. ♻️ chore: bump dependencies
 0631. ✨ feat: create admin dashboard
 0744. 🔧 refactor: remove redundant code blocks
+0918. ✨ feat: enable dark mode toggle
