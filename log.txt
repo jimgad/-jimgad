@@ -1156,3 +1156,4 @@
 0918. ✨ feat: enable dark mode toggle
 0380. 🐛 fix: fix null pointer exception on login
 0011. ✅ test: add unit test for quiz service
+0250. 📚 docs: update README with setup steps
