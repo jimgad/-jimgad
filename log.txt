@@ -1167,3 +1167,4 @@
 0709. ♻️ chore: bump dependencies
 0495. 🔧 refactor: remove redundant code blocks
 0194. 🎨 style: standardize quote style
+0118. 🚀 perf: reduce image load time
