@@ -1179,3 +1179,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0590. 🐛 fix: fix null pointer exception on login
 0648. ♻️ chore: bump dependencies
+0498. ✅ test: mock database connection in test suite
