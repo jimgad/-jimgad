@@ -1196,3 +1196,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0080. ✨ feat: support email verification
 0978. 🐛 fix: prevent crash on empty input
+0156. 🎨 style: rename variables for clarity
