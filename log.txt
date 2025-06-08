@@ -1198,3 +1198,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0156. 🎨 style: rename variables for clarity
 0640. ♻️ chore: bump dependencies
+0078. ♻️ chore: update .gitignore
