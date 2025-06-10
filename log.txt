@@ -1199,3 +1199,4 @@
 0156. 🎨 style: rename variables for clarity
 0640. ♻️ chore: bump dependencies
 0078. ♻️ chore: update .gitignore
+0231. 🔧 refactor: clean up auth middleware
