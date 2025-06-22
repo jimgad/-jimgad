@@ -1205,3 +1205,4 @@
 0911. ✅ test: increase coverage on auth module
 0106. 🎨 style: reformat files with black
 0532. 🔧 refactor: split large controller into smaller functions
+0506. 🐛 fix: handle 500 error in quiz API
