@@ -1208,3 +1208,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0778. 📚 docs: write FAQ section
 0594. 🎨 style: reformat files with black
+0496. ✅ test: add integration test for /submit endpoint
