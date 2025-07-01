@@ -1211,3 +1211,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0988. 🐛 fix: fix broken CSS in mobile view
 0275. 🎨 style: standardize quote style
+0958. 🐛 fix: prevent crash on empty input
