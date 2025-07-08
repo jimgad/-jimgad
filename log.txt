@@ -1221,3 +1221,4 @@
 0634. 🎨 style: reformat files with black
 0437. 📚 docs: clarify environment setup
 0345. 📚 docs: document token refresh logic
+0947. 📚 docs: write FAQ section
