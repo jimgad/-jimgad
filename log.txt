@@ -1222,3 +1222,4 @@
 0437. 📚 docs: clarify environment setup
 0345. 📚 docs: document token refresh logic
 0947. 📚 docs: write FAQ section
+0504. 📚 docs: document token refresh logic
